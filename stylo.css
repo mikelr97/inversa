@@ -1,0 +1,71 @@
+
+body{
+	margin: 0;
+}
+
+.header {
+  background-color: rgb(171,171,171);
+  padding: 7px;
+  height: 80px;
+}
+
+.titulo{
+	
+	/*font-size:  90px;
+	color: rgb(246,139,30);*/
+
+	width: 320px;
+
+	background-color: rgb(246,139,030);
+
+	border-style: solid;
+	border-color: rgb(246,139,030);
+	border-width: 8px;
+
+	margin-top: -17px;
+	left: 187px;
+	
+	position: fixed;
+}
+
+#reg{
+	color: rgb(92,93,94);
+	font-size: 22px;
+	margin-left: 312px;
+	margin-top: -17px;
+	z-index: 2;
+
+	position: fixed;
+	
+}
+
+#logo{
+	background-color: white;
+	
+	border-style: solid;
+	border-width: 15px;
+	border-color: rgb(92,93,94);
+	
+	width: 160px;
+	
+	margin-left: -10px;
+	margin-right: 5px;
+	margin-top: -7px;
+
+	float: left;
+}
+
+
+
+
+
+/*
+
+colores
+
+naranja			rgb(246,139,030)
+
+gris obscuro	rgb(92,93,94)
+
+gris claro		rgb(171,171,171)
+*/
